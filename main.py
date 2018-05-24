@@ -8,7 +8,7 @@ from flask import Flask, jsonify
 
 greetNewUsersInterval = 5  #in seconds
 requestUrl = "https://api.telegram.org/bot"
-token      = "579760998:AAEEDEE_EXNvPXnSVAfXsAs44uH0JH-p-WU"
+token      = ""
 welcomeMessage = 'Welcome to the group: '
 
 
