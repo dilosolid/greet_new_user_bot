@@ -6,7 +6,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 from flask import Flask, jsonify
 
-#testing
+#testing 2
 greetNewUsersInterval = 5  #in seconds
 requestUrl = "https://api.telegram.org/bot"
 token      = ""
